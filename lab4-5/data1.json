@@ -1,0 +1,52 @@
+[
+  {
+    "tab_number": 1,
+    "fio": "Быковский Андрей Андреевич",
+    "gender": "М",
+    "birth_date": "2005-05-03",
+    "address": "г. Орёл, ул. Комсомольская 52",
+    "phone": "79803659999",
+    "discipline": "Информатика",
+    "experience_years": 5
+  },
+  {
+    "tab_number": 2,
+    "fio": "Рекунова Галина Игоревна",
+    "gender": "Ж",
+    "birth_date": "2005-04-28",
+    "address": "г. Орёл, ул. Комсомольская 52",
+    "phone": "79803652222",
+    "discipline": "Математика",
+    "experience_years": 7
+  },
+  {
+    "tab_number": 3,
+    "fio": "Иванов Иван Иванович",
+    "gender": "М",
+    "birth_date": "2002-02-20",
+    "address": "г. Орёл, ул. Нормандия-неман 8",
+    "phone": "79536342121",
+    "discipline": "Информатика",
+    "experience_years": 10
+  },
+  {
+    "tab_number": 4,
+    "fio": "Плющенко Евгений Владимирович",
+    "gender": "М",
+    "birth_date": "1976-01-01",
+    "address": "г. Орёл, ул. Зареченская 6",
+    "phone": "79536346565",
+    "discipline": "Химия",
+    "experience_years": 20
+  },
+  {
+    "tab_number": 5,
+    "fio": "Никита Никитин Никитович",
+    "gender": "М",
+    "birth_date": "1988-06-01",
+    "address": "г. Москва, ул. Новый-Арбат 1",
+    "phone": "74953251245",
+    "discipline": "Физика",
+    "experience_years": 18
+  }
+]
