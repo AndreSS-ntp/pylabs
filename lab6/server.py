@@ -1,7 +1,7 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json, re
 
-HOST='127.0.0.1'
+HOST='0.0.0.0'
 PORT=8099
 
 def process_text(s: str) -> str:

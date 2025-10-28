@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 from urllib import request, error
 import json
 
-SERVER_URL='http://127.0.0.1:8099/process'
+SERVER_URL='http://0.0.0.0:8099/process'
 
 class ClientApp(tk.Tk):
     def __init__(self):

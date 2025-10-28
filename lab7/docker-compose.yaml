@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:latest
+    container_name: lab7-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_DB: university
+      POSTGRES_USER: labuser
+      POSTGRES_PASSWORD: labpass
+
+    ports:
+      - "5439:5432"
+
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:
